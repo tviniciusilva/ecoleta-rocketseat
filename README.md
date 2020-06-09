@@ -24,8 +24,6 @@
 
 This is a multiplatform web and mobile project, developed during the <b>Next Level Week</b>, offered by Rocketseat :purple_heart: with the objective of helping the environment, through the application it is possible to register collect points for materials that cannot be discarded in nature, so that they have their due recycling or destruction. The application consumes data from the <b>IBGE API</b> to list states and cities by state, as well as consuming a Leaflet API to display the map.
 
-
-
 ---
 <h1 align="center">
     <img src="https://ik.imagekit.io/t50uqljht0/web1_YWiXGvJrN.jpeg">
