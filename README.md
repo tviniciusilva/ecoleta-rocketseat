@@ -156,7 +156,7 @@ $ npm start
 ```
 
 ### 🛠 How to Build
-Documentação dos principais pontos e passo a da construção da aplicação [Clique aqui!](https://www.notion.so/Next-Level-Week-2637ed1ec02443a3b4ba44e46ee05ce7)!
+Documentation of the main points and stage of building the application [Click Here!](https://www.notion.so/Next-Level-Week-2637ed1ec02443a3b4ba44e46ee05ce7)!
 
 ---
 
