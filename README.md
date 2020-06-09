@@ -2,17 +2,20 @@
     <img src="https://ik.imagekit.io/t50uqljht0/logo_-1JZtxnYs.svg">
 </h1>
 
-## Your materials collection marketplace :rocket: :purple_heart:
+<h1 align="center">
+    Your materials collection marketplace 💜🚀
+</h1>
 
 
-<p align="center">
+
+<div align="center">
     <a href="#scroll-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#nail_care-front-end">Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#iphone-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#japanese_ogre-back-end">API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#wave-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#how-to-build">How to build</a>
-</p>
+</div>
 
 <div align="center">
 
