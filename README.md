@@ -6,6 +6,11 @@
     Your materials collection marketplace 💜🚀
 </h1>
 
+<div align="center">
+
+![GitHub language count](https://img.shields.io/github/languages/count/tviniciusilva/ecoleta-rocketseat?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/tviniciusilva/ecoleta-rocketseat?style=plastic) ![GitHub repo size](https://img.shields.io/github/repo-size/tviniciusilva/ecoleta-rocketseat?style=plastic)
+
+</div>
 
 
 <div align="center">
@@ -15,12 +20,6 @@
     <a href="#japanese_ogre-back-end">API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#wave-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#how-to-build">How to build</a>
-</div>
-
-<div align="center">
-
-![GitHub language count](https://img.shields.io/github/languages/count/tviniciusilva/ecoleta-rocketseat?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/tviniciusilva/ecoleta-rocketseat?style=plastic) ![GitHub repo size](https://img.shields.io/github/repo-size/tviniciusilva/ecoleta-rocketseat?style=plastic)
-
 </div>
 
 ### :scroll: About
