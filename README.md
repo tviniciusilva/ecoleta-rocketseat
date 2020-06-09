@@ -18,12 +18,13 @@ This is a multiplatform web and mobile project, developed during the <b>Next Lev
 
 <div align="center">
 
-<a href="https://ibb.co/cDCrtJM"><img src="https://i.ibb.co/yWYQ50G/web1.jpg" alt="web1" border="0"></a>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/XzGnwyV/mobile1.jpg" alt="mobile1" border="0"></a>
+![](/web/src/images/web1.jpeg)
+![](/web/src/images/mobile2.jpeg)
+![](/web/src/images/mobile1.jpeg)
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/x384GyN/mobile2.jpg" alt="mobile2" border="0"></a>
 </div>
+
 
 ---
 
