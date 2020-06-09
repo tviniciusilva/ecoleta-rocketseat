@@ -2,9 +2,19 @@
 
 ##Your materials collection marketplace :rocket: :purple_heart:
 
+
+<p align="center">
+    <a href="#scroll-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#nail_care-front-end">Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#iphone-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#japanese_ogre-back-end">API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#wave-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#how-to-build">How to build</a>
+</p>
+
 ### :scroll: About
 
-This is a multiplatform web and mobile project, developed during the <b>Next Level Week</b>, offered by Rocketseat :purple_heart: with the objective of helping the environment, through the application it is possible to register collect points for materials that cannot be discarded in nature, so that they have their due recycling or destruction.
+This is a multiplatform web and mobile project, developed during the <b>Next Level Week</b>, offered by Rocketseat :purple_heart: with the objective of helping the environment, through the application it is possible to register collect points for materials that cannot be discarded in nature, so that they have their due recycling or destruction. The application consumes data from the <b>IBGE API</b> to list states and cities by state, as well as consuming a Leaflet API to display the map.
 
 <div align="center">
 
@@ -29,7 +39,7 @@ This is a multiplatform web and mobile project, developed during the <b>Next Lev
 - Knex
 - Multer
 ---
-### :nail_care: Web - Front-End
+### :nail_care: Front-End
 - TypeScript
 - ReactJS
 - Axios
@@ -138,7 +148,8 @@ Documentação dos principais pontos e passo a da construção da aplicação [C
 
 ---
 
-## :black_nib: Author - Vinicius Sousa
+##:black_nib: Author - Vinicius Sousa
 
-### Talk is cheap, show me the code!
+##### Talk is cheap, show me the code!
 Torvalds, Linus.
+---
