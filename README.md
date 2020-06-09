@@ -74,7 +74,7 @@ This is a multiplatform web and mobile project, developed during the <b>Next Lev
 $ git clone https://github.com/tviniciusilva/ecoleta-rocketseat.git
 
 # Enter the directory
-$ cd ecoleta-app/server
+$ cd ecoleta-rocketseat/server
 
 # Install the dependencies
 $ npm install
@@ -125,7 +125,7 @@ $ npm start
 $ git clone https://github.com/tviniciusilva/ecoleta-rocketseat.git
 
 # Enter the directory
-$ cd ecoleta-app/mobile
+$ cd ecoleta-rocketseat/mobile
 
 # Install the dependencies
 $ npm install
