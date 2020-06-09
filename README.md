@@ -148,7 +148,7 @@ Documentação dos principais pontos e passo a da construção da aplicação [C
 
 ---
 
-##:black_nib: Author - Vinicius Sousa
+## :black_nib: Author - Vinicius Sousa
 
 ##### Talk is cheap, show me the code!
 Torvalds, Linus.
