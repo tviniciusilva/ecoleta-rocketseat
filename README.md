@@ -1,6 +1,6 @@
-#Ecoleta :recycle:
+# Ecoleta :recycle:
 
-##Your materials collection marketplace :rocket: :purple_heart:
+## Your materials collection marketplace :rocket: :purple_heart:
 
 
 <p align="center">
