@@ -148,7 +148,7 @@ $ npm start
 # Scan the Expo QRcode at the terminal or on the web page
 
 # You need to check your IP and change the files 
--> mobile/src/services/api.ts conforme o seu IP
+-> mobile/src/services/api.ts according to your ip
 
 # Run port 3333
 # Available on http://yourIP:3333
