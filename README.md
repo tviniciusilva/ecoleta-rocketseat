@@ -12,21 +12,29 @@
     <a href="#how-to-build">How to build</a>
 </p>
 
+<div align="center">
+
+![GitHub language count](https://img.shields.io/github/languages/count/tviniciusilva/ecoleta-rocketseat?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/tviniciusilva/ecoleta-rocketseat?style=plastic) ![GitHub repo size](https://img.shields.io/github/repo-size/tviniciusilva/ecoleta-rocketseat?style=plastic)
+
+</div>
+
 ### :scroll: About
 
 This is a multiplatform web and mobile project, developed during the <b>Next Level Week</b>, offered by Rocketseat :purple_heart: with the objective of helping the environment, through the application it is possible to register collect points for materials that cannot be discarded in nature, so that they have their due recycling or destruction. The application consumes data from the <b>IBGE API</b> to list states and cities by state, as well as consuming a Leaflet API to display the map.
 
-<div align="center">
-
-<a href="https://ibb.co/cDCrtJM"><img src="https://i.ibb.co/yWYQ50G/web1.jpg" alt="web1" border="0"></a>
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/XzGnwyV/mobile1.jpg" alt="mobile1" border="0"></a>
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/x384GyN/mobile2.jpg" alt="mobile2" border="0"></a>
-</div>
 
 ---
+<h1 align="center">
+    <img src="https://ik.imagekit.io/t50uqljht0/web1_YWiXGvJrN.jpeg">
+</h1>
+<h1 align="center">
+    <img src="https://ik.imagekit.io/t50uqljht0/mobile2_5fY_bo24T.jpeg">
+</h1>
+<h1 align="center">
+    <img src="https://ik.imagekit.io/t50uqljht0/mobile1__gh18euGv.jpeg">
+</h1>
 
+---
 ## :rocket: Stack
 
 #### :japanese_ogre: Back-end
